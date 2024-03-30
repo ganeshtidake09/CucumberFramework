@@ -1,0 +1,1181 @@
+!SESSION 2024-02-13 11:32:40.080 -----------------------------------------------
+eclipse.buildId=4.24.0.I20220607-0700
+java.version=17.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.jface 2 0 2024-02-13 11:32:45.568
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2024-02-13 11:32:45.568
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@690e4b00,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@5e3d84a,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2024-02-13 11:32:45.568
+!MESSAGE A conflict occurred for ALT+SHIFT+R:
+Binding(ALT+SHIFT+R,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.rename.element,Rename - Refactoring ,
+		Rename the selected element,
+		Category(org.eclipse.jdt.ui.category.refactoring,Refactor - Java,Java Refactoring Actions,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@2728add3,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+SHIFT+R,
+	ParameterizedCommand(Command(org.eclipse.ui.edit.rename,Rename,
+		Rename the selected item,
+		Category(org.eclipse.ui.category.file,File,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@4fce3ed7,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-02-13 11:32:49.788
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\hp'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2024-02-13 11:44:41.946 -----------------------------------------------
+eclipse.buildId=4.24.0.I20220607-0700
+java.version=17.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.jface 2 0 2024-02-13 11:45:23.816
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2024-02-13 11:45:23.817
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@78e50fca,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@2555a986,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2024-02-13 11:45:23.817
+!MESSAGE A conflict occurred for ALT+SHIFT+R:
+Binding(ALT+SHIFT+R,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.rename.element,Rename - Refactoring ,
+		Rename the selected element,
+		Category(org.eclipse.jdt.ui.category.refactoring,Refactor - Java,Java Refactoring Actions,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@76c587ce,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+SHIFT+R,
+	ParameterizedCommand(Command(org.eclipse.ui.edit.rename,Rename,
+		Rename the selected item,
+		Category(org.eclipse.ui.category.file,File,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@2ae7c1d,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-02-13 11:45:25.950
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\hp'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.lsp4e 4 0 2024-02-13 11:45:46.387
+!MESSAGE TimeoutException
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1960)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2095)
+	at org.eclipse.lsp4e.operations.hover.LSPTextHover.getHoverRegion(LSPTextHover.java:150)
+	at org.eclipse.ui.internal.genericeditor.hover.CompositeTextHover.getHoverRegion(CompositeTextHover.java:101)
+	at org.eclipse.jface.text.TextViewerHoverManager.computeInformation(TextViewerHoverManager.java:128)
+	at org.eclipse.jface.text.AbstractInformationControlManager.doShowInformation(AbstractInformationControlManager.java:1101)
+	at org.eclipse.jface.text.AbstractHoverInformationControlManager$MouseTracker.mouseHover(AbstractHoverInformationControlManager.java:511)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:212)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4251)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1066)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4068)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3645)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1155)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:644)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:551)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:156)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:402)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
+
+!ENTRY org.eclipse.lsp4e 4 0 2024-02-13 11:45:46.428
+!MESSAGE InterruptedException
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:386)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2096)
+	at org.eclipse.lsp4e.operations.hover.LSPTextHover.getHoverInfo(LSPTextHover.java:73)
+	at org.eclipse.ui.internal.genericeditor.hover.CompositeTextHover.getHoverInfo2(CompositeTextHover.java:60)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2024-02-13 12:11:59.410
+!MESSAGE Could not download sources for com.sun:tools:1.5.0
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact com.sun:tools:jar:sources:1.5.0
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:828)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:117)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:103)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:796)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:773)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:311)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:285)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:255)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:223)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:152)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:156)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:103)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1416)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:152)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing com.sun:tools:jar:sources:1.5.0
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2024-02-13 12:11:59.411
+!MESSAGE Could not resolve artifact com.sun:tools:jar:sources:1.5.0
+!SUBENTRY 2 org.eclipse.m2e.core 4 -1 2024-02-13 12:11:59.411
+!MESSAGE Missing com.sun:tools:jar:sources:1.5.0
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2024-02-13 12:19:30.472
+!MESSAGE Could not download javadoc for com.sun:tools:1.5.0
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact com.sun:tools:jar:javadoc:1.5.0
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:828)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:117)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:103)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:796)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:773)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:311)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:297)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:255)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:223)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:152)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:156)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:103)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1416)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:152)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing com.sun:tools:jar:javadoc:1.5.0
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2024-02-13 12:19:30.472
+!MESSAGE Could not resolve artifact com.sun:tools:jar:javadoc:1.5.0
+!SUBENTRY 2 org.eclipse.m2e.core 4 -1 2024-02-13 12:19:30.472
+!MESSAGE Missing com.sun:tools:jar:javadoc:1.5.0
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2024-02-13 12:19:44.239
+!MESSAGE Could not download sources for com.google.guava:listenablefuture:9999.0-empty-to-avoid-conflict-with-guava
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact com.google.guava:listenablefuture:jar:sources:9999.0-empty-to-avoid-conflict-with-guava
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:828)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:117)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:103)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:796)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:773)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:311)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:285)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:255)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:223)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:152)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:156)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:103)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1416)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:152)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing com.google.guava:listenablefuture:jar:sources:9999.0-empty-to-avoid-conflict-with-guava
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2024-02-13 12:19:44.239
+!MESSAGE Could not resolve artifact com.google.guava:listenablefuture:jar:sources:9999.0-empty-to-avoid-conflict-with-guava
+!SUBENTRY 2 org.eclipse.m2e.core 4 -1 2024-02-13 12:19:44.239
+!MESSAGE Missing com.google.guava:listenablefuture:jar:sources:9999.0-empty-to-avoid-conflict-with-guava
+
+!ENTRY org.eclipse.jface 2 0 2024-02-13 12:26:45.586
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2024-02-13 12:26:45.586
+!MESSAGE A conflict occurred for CTRL+SHIFT+F:
+Binding(CTRL+SHIFT+F,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.format,Format,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@2f2bb096,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+Binding(CTRL+SHIFT+F,
+	ParameterizedCommand(Command(cucumber.eclipse.editor.formmater.pretty_formatter,Pretty format feature file,
+		Format,
+		Category(cucumber.eclipse.category,Cucumber,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@43df0684,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	cucumber.eclipse.editor.featureEditorScope,,,system)
+
+!ENTRY org.eclipse.ui.ide 4 4 2024-02-13 12:34:25.491
+!MESSAGE Not properly disposed SWT resource
+!STACK 0
+java.lang.Error: SWT Resource was not properly disposed
+	at org.eclipse.swt.graphics.Resource.initNonDisposeTracking(Resource.java:172)
+	at org.eclipse.swt.graphics.Resource.<init>(Resource.java:120)
+	at org.eclipse.swt.graphics.Image.<init>(Image.java:668)
+	at org.eclipse.jface.resource.URLImageDescriptor.createImage(URLImageDescriptor.java:275)
+	at org.eclipse.jface.resource.ImageDescriptor.createImage(ImageDescriptor.java:290)
+	at org.eclipse.jface.resource.ImageDescriptor.createImage(ImageDescriptor.java:268)
+	at cucumber.eclipse.editor.editors.GherkinKeywordsAssistProcessor.<init>(GherkinKeywordsAssistProcessor.java:34)
+	at cucumber.eclipse.editor.editors.GherkinConfiguration.getContentAssistant(GherkinConfiguration.java:128)
+	at org.eclipse.jface.text.source.SourceViewer.configure(SourceViewer.java:500)
+	at org.eclipse.ui.texteditor.AbstractTextEditor.createPartControl(AbstractTextEditor.java:3367)
+	at org.eclipse.ui.texteditor.StatusTextEditor.createPartControl(StatusTextEditor.java:64)
+	at org.eclipse.ui.texteditor.AbstractDecoratedTextEditor.createPartControl(AbstractDecoratedTextEditor.java:454)
+	at cucumber.eclipse.editor.editors.Editor.createPartControl(Editor.java:88)
+	at org.eclipse.ui.internal.e4.compatibility.CompatibilityPart.createPartControl(CompatibilityPart.java:158)
+	at org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor.createPartControl(CompatibilityEditor.java:96)
+	at org.eclipse.ui.internal.e4.compatibility.CompatibilityPart.create(CompatibilityPart.java:365)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:58)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.processAnnotated(InjectorImpl.java:995)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.processAnnotated(InjectorImpl.java:960)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.internalInject(InjectorImpl.java:140)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.internalMake(InjectorImpl.java:403)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.make(InjectorImpl.java:330)
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.make(ContextInjectionFactory.java:202)
+	at org.eclipse.e4.ui.internal.workbench.ReflectionContributionFactory.createFromBundle(ReflectionContributionFactory.java:91)
+	at org.eclipse.e4.ui.internal.workbench.ReflectionContributionFactory.doCreate(ReflectionContributionFactory.java:60)
+	at org.eclipse.e4.ui.internal.workbench.ReflectionContributionFactory.create(ReflectionContributionFactory.java:42)
+	at org.eclipse.e4.ui.workbench.renderers.swt.ContributedPartRenderer.createWidget(ContributedPartRenderer.java:132)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createWidget(PartRenderingEngine.java:995)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:659)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:763)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:728)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:712)
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.lambda$0(PartServiceImpl.java:105)
+	at org.eclipse.e4.ui.services.internal.events.UIEventHandler.lambda$0(UIEventHandler.java:38)
+	at org.eclipse.swt.widgets.Synchronizer.syncExec(Synchronizer.java:183)
+	at org.eclipse.ui.internal.UISynchronizer.syncExec(UISynchronizer.java:133)
+	at org.eclipse.swt.widgets.Display.syncExec(Display.java:4790)
+	at org.eclipse.e4.ui.workbench.swt.DisplayUISynchronize.syncExec(DisplayUISynchronize.java:34)
+	at org.eclipse.e4.ui.services.internal.events.UIEventHandler.handleEvent(UIEventHandler.java:38)
+	at org.eclipse.equinox.internal.event.EventHandlerWrapper.handleEvent(EventHandlerWrapper.java:205)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:203)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:234)
+	at org.eclipse.osgi.framework.eventmgr.ListenerQueue.dispatchEventSynchronous(ListenerQueue.java:151)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.dispatchEvent(EventAdminImpl.java:133)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.sendEvent(EventAdminImpl.java:75)
+	at org.eclipse.equinox.internal.event.EventComponent.sendEvent(EventComponent.java:44)
+	at org.eclipse.e4.ui.services.internal.events.EventBroker.send(EventBroker.java:55)
+	at org.eclipse.e4.ui.internal.workbench.UIEventPublisher.notifyChanged(UIEventPublisher.java:63)
+	at org.eclipse.emf.common.notify.impl.BasicNotifierImpl.eNotify(BasicNotifierImpl.java:424)
+	at org.eclipse.e4.ui.model.application.ui.impl.ElementContainerImpl.setSelectedElementGen(ElementContainerImpl.java:170)
+	at org.eclipse.e4.ui.model.application.ui.impl.ElementContainerImpl.setSelectedElement(ElementContainerImpl.java:188)
+	at org.eclipse.e4.ui.internal.workbench.ModelServiceImpl.showElementInWindow(ModelServiceImpl.java:660)
+	at org.eclipse.e4.ui.internal.workbench.ModelServiceImpl.bringToTop(ModelServiceImpl.java:624)
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.delegateBringToTop(PartServiceImpl.java:787)
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.bringToTop(PartServiceImpl.java:401)
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.showPart(PartServiceImpl.java:1261)
+	at org.eclipse.ui.internal.WorkbenchPage.busyOpenEditor(WorkbenchPage.java:3207)
+	at org.eclipse.ui.internal.WorkbenchPage.lambda$9(WorkbenchPage.java:3097)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:74)
+	at org.eclipse.ui.internal.WorkbenchPage.openEditor(WorkbenchPage.java:3095)
+	at org.eclipse.ui.internal.WorkbenchPage.openEditor(WorkbenchPage.java:3065)
+	at org.eclipse.ui.internal.WorkbenchPage.openEditor(WorkbenchPage.java:3056)
+	at org.eclipse.ui.ide.IDE.openEditor(IDE.java:569)
+	at org.eclipse.ui.ide.IDE.openEditor(IDE.java:524)
+	at org.eclipse.ui.wizards.newresource.BasicNewFileResourceWizard.performFinish(BasicNewFileResourceWizard.java:110)
+	at org.eclipse.jface.wizard.WizardDialog.finishPressed(WizardDialog.java:832)
+	at org.eclipse.jface.wizard.WizardDialog.buttonPressed(WizardDialog.java:472)
+	at org.eclipse.jface.dialogs.Dialog.lambda$0(Dialog.java:619)
+	at org.eclipse.swt.events.SelectionListener$1.widgetSelected(SelectionListener.java:84)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:252)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4251)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1066)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4068)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3645)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:823)
+	at org.eclipse.jface.window.Window.open(Window.java:799)
+	at org.eclipse.ui.internal.actions.NewWizardShortcutAction.run(NewWizardShortcutAction.java:130)
+	at org.eclipse.jface.action.Action.runWithEvent(Action.java:474)
+	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:580)
+	at org.eclipse.jface.action.ActionContributionItem.lambda$4(ActionContributionItem.java:414)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4251)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1066)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4068)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3645)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1155)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:644)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:551)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:156)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:402)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
+
+!ENTRY org.eclipse.ui.ide 4 4 2024-02-13 12:44:31.436
+!MESSAGE Not properly disposed SWT resource
+!STACK 0
+java.lang.Error: SWT Resource was not properly disposed
+	at org.eclipse.swt.graphics.Resource.initNonDisposeTracking(Resource.java:172)
+	at org.eclipse.swt.graphics.Resource.<init>(Resource.java:120)
+	at org.eclipse.swt.graphics.Image.<init>(Image.java:668)
+	at org.eclipse.jface.resource.URLImageDescriptor.createImage(URLImageDescriptor.java:275)
+	at org.eclipse.jface.resource.ImageDescriptor.createImage(ImageDescriptor.java:290)
+	at org.eclipse.jface.resource.ImageDescriptor.createImage(ImageDescriptor.java:268)
+	at cucumber.eclipse.editor.editors.GherkinKeywordsAssistProcessor.<init>(GherkinKeywordsAssistProcessor.java:34)
+	at cucumber.eclipse.editor.editors.GherkinConfiguration.getContentAssistant(GherkinConfiguration.java:128)
+	at org.eclipse.jface.text.source.SourceViewer.configure(SourceViewer.java:500)
+	at org.eclipse.ui.texteditor.AbstractTextEditor.createPartControl(AbstractTextEditor.java:3367)
+	at org.eclipse.ui.texteditor.StatusTextEditor.createPartControl(StatusTextEditor.java:64)
+	at org.eclipse.ui.texteditor.AbstractDecoratedTextEditor.createPartControl(AbstractDecoratedTextEditor.java:454)
+	at cucumber.eclipse.editor.editors.Editor.createPartControl(Editor.java:88)
+	at org.eclipse.ui.internal.e4.compatibility.CompatibilityPart.createPartControl(CompatibilityPart.java:158)
+	at org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor.createPartControl(CompatibilityEditor.java:96)
+	at org.eclipse.ui.internal.e4.compatibility.CompatibilityPart.create(CompatibilityPart.java:365)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:58)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.processAnnotated(InjectorImpl.java:995)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.processAnnotated(InjectorImpl.java:960)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.internalInject(InjectorImpl.java:140)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.internalMake(InjectorImpl.java:403)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.make(InjectorImpl.java:330)
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.make(ContextInjectionFactory.java:202)
+	at org.eclipse.e4.ui.internal.workbench.ReflectionContributionFactory.createFromBundle(ReflectionContributionFactory.java:91)
+	at org.eclipse.e4.ui.internal.workbench.ReflectionContributionFactory.doCreate(ReflectionContributionFactory.java:60)
+	at org.eclipse.e4.ui.internal.workbench.ReflectionContributionFactory.create(ReflectionContributionFactory.java:42)
+	at org.eclipse.e4.ui.workbench.renderers.swt.ContributedPartRenderer.createWidget(ContributedPartRenderer.java:132)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createWidget(PartRenderingEngine.java:995)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:659)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:763)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:728)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:712)
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.lambda$0(PartServiceImpl.java:105)
+	at org.eclipse.e4.ui.services.internal.events.UIEventHandler.lambda$0(UIEventHandler.java:38)
+	at org.eclipse.swt.widgets.Synchronizer.syncExec(Synchronizer.java:183)
+	at org.eclipse.ui.internal.UISynchronizer.syncExec(UISynchronizer.java:133)
+	at org.eclipse.swt.widgets.Display.syncExec(Display.java:4790)
+	at org.eclipse.e4.ui.workbench.swt.DisplayUISynchronize.syncExec(DisplayUISynchronize.java:34)
+	at org.eclipse.e4.ui.services.internal.events.UIEventHandler.handleEvent(UIEventHandler.java:38)
+	at org.eclipse.equinox.internal.event.EventHandlerWrapper.handleEvent(EventHandlerWrapper.java:205)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:203)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:234)
+	at org.eclipse.osgi.framework.eventmgr.ListenerQueue.dispatchEventSynchronous(ListenerQueue.java:151)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.dispatchEvent(EventAdminImpl.java:133)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.sendEvent(EventAdminImpl.java:75)
+	at org.eclipse.equinox.internal.event.EventComponent.sendEvent(EventComponent.java:44)
+	at org.eclipse.e4.ui.services.internal.events.EventBroker.send(EventBroker.java:55)
+	at org.eclipse.e4.ui.internal.workbench.UIEventPublisher.notifyChanged(UIEventPublisher.java:63)
+	at org.eclipse.emf.common.notify.impl.BasicNotifierImpl.eNotify(BasicNotifierImpl.java:424)
+	at org.eclipse.e4.ui.model.application.ui.impl.ElementContainerImpl.setSelectedElementGen(ElementContainerImpl.java:170)
+	at org.eclipse.e4.ui.model.application.ui.impl.ElementContainerImpl.setSelectedElement(ElementContainerImpl.java:188)
+	at org.eclipse.e4.ui.internal.workbench.ModelServiceImpl.showElementInWindow(ModelServiceImpl.java:660)
+	at org.eclipse.e4.ui.internal.workbench.ModelServiceImpl.bringToTop(ModelServiceImpl.java:624)
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.delegateBringToTop(PartServiceImpl.java:787)
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.bringToTop(PartServiceImpl.java:401)
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.showPart(PartServiceImpl.java:1261)
+	at org.eclipse.ui.internal.WorkbenchPage.busyOpenEditor(WorkbenchPage.java:3207)
+	at org.eclipse.ui.internal.WorkbenchPage.lambda$9(WorkbenchPage.java:3097)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:74)
+	at org.eclipse.ui.internal.WorkbenchPage.openEditor(WorkbenchPage.java:3095)
+	at org.eclipse.ui.internal.WorkbenchPage.openEditor(WorkbenchPage.java:3065)
+	at org.eclipse.ui.internal.WorkbenchPage.openEditor(WorkbenchPage.java:3056)
+	at org.eclipse.ui.ide.IDE.openEditor(IDE.java:569)
+	at org.eclipse.ui.ide.IDE.openEditor(IDE.java:524)
+	at org.eclipse.jdt.internal.ui.javaeditor.EditorUtility.openInEditor(EditorUtility.java:367)
+	at org.eclipse.jdt.internal.ui.javaeditor.EditorUtility.openInEditor(EditorUtility.java:172)
+	at org.eclipse.jdt.ui.actions.OpenAction.run(OpenAction.java:288)
+	at org.eclipse.jdt.ui.actions.OpenAction.run(OpenAction.java:254)
+	at org.eclipse.jdt.ui.actions.SelectionDispatchAction.dispatchRun(SelectionDispatchAction.java:274)
+	at org.eclipse.jdt.ui.actions.SelectionDispatchAction.run(SelectionDispatchAction.java:252)
+	at org.eclipse.jdt.internal.ui.packageview.PackageExplorerActionGroup.handleOpen(PackageExplorerActionGroup.java:366)
+	at org.eclipse.jdt.internal.ui.packageview.PackageExplorerPart$3.open(PackageExplorerPart.java:545)
+	at org.eclipse.ui.OpenAndLinkWithEditorHelper$InternalListener.open(OpenAndLinkWithEditorHelper.java:48)
+	at org.eclipse.jface.viewers.StructuredViewer$2.run(StructuredViewer.java:800)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:174)
+	at org.eclipse.jface.viewers.StructuredViewer.fireOpen(StructuredViewer.java:797)
+	at org.eclipse.jface.viewers.StructuredViewer.handleOpen(StructuredViewer.java:1116)
+	at org.eclipse.jface.util.OpenStrategy.fireOpenEvent(OpenStrategy.java:296)
+	at org.eclipse.jface.util.OpenStrategy$1.handleEvent(OpenStrategy.java:331)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4251)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1066)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4068)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3645)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1155)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:644)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:551)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:156)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:402)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
+
+!ENTRY org.eclipse.ui.ide 4 4 2024-02-13 12:58:07.585
+!MESSAGE Not properly disposed SWT resource
+!STACK 0
+java.lang.Error: SWT Resource was not properly disposed
+	at org.eclipse.swt.graphics.Resource.initNonDisposeTracking(Resource.java:172)
+	at org.eclipse.swt.graphics.Resource.<init>(Resource.java:120)
+	at org.eclipse.swt.graphics.Image.<init>(Image.java:668)
+	at org.eclipse.jface.resource.URLImageDescriptor.createImage(URLImageDescriptor.java:275)
+	at org.eclipse.jface.resource.ImageDescriptor.createImage(ImageDescriptor.java:290)
+	at org.eclipse.jface.resource.ImageDescriptor.createImage(ImageDescriptor.java:268)
+	at cucumber.eclipse.editor.editors.GherkinKeywordsAssistProcessor.<init>(GherkinKeywordsAssistProcessor.java:34)
+	at cucumber.eclipse.editor.editors.GherkinConfiguration.getContentAssistant(GherkinConfiguration.java:128)
+	at org.eclipse.jface.text.source.SourceViewer.configure(SourceViewer.java:500)
+	at org.eclipse.ui.texteditor.AbstractTextEditor.createPartControl(AbstractTextEditor.java:3367)
+	at org.eclipse.ui.texteditor.StatusTextEditor.createPartControl(StatusTextEditor.java:64)
+	at org.eclipse.ui.texteditor.AbstractDecoratedTextEditor.createPartControl(AbstractDecoratedTextEditor.java:454)
+	at cucumber.eclipse.editor.editors.Editor.createPartControl(Editor.java:88)
+	at org.eclipse.ui.internal.e4.compatibility.CompatibilityPart.createPartControl(CompatibilityPart.java:158)
+	at org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor.createPartControl(CompatibilityEditor.java:96)
+	at org.eclipse.ui.internal.e4.compatibility.CompatibilityPart.create(CompatibilityPart.java:365)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:58)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.processAnnotated(InjectorImpl.java:995)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.processAnnotated(InjectorImpl.java:960)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.internalInject(InjectorImpl.java:140)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.internalMake(InjectorImpl.java:403)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.make(InjectorImpl.java:330)
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.make(ContextInjectionFactory.java:202)
+	at org.eclipse.e4.ui.internal.workbench.ReflectionContributionFactory.createFromBundle(ReflectionContributionFactory.java:91)
+	at org.eclipse.e4.ui.internal.workbench.ReflectionContributionFactory.doCreate(ReflectionContributionFactory.java:60)
+	at org.eclipse.e4.ui.internal.workbench.ReflectionContributionFactory.create(ReflectionContributionFactory.java:42)
+	at org.eclipse.e4.ui.workbench.renderers.swt.ContributedPartRenderer.createWidget(ContributedPartRenderer.java:132)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createWidget(PartRenderingEngine.java:995)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:659)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:763)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:728)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:712)
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.lambda$0(PartServiceImpl.java:105)
+	at org.eclipse.e4.ui.services.internal.events.UIEventHandler.lambda$0(UIEventHandler.java:38)
+	at org.eclipse.swt.widgets.Synchronizer.syncExec(Synchronizer.java:183)
+	at org.eclipse.ui.internal.UISynchronizer.syncExec(UISynchronizer.java:133)
+	at org.eclipse.swt.widgets.Display.syncExec(Display.java:4790)
+	at org.eclipse.e4.ui.workbench.swt.DisplayUISynchronize.syncExec(DisplayUISynchronize.java:34)
+	at org.eclipse.e4.ui.services.internal.events.UIEventHandler.handleEvent(UIEventHandler.java:38)
+	at org.eclipse.equinox.internal.event.EventHandlerWrapper.handleEvent(EventHandlerWrapper.java:205)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:203)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:234)
+	at org.eclipse.osgi.framework.eventmgr.ListenerQueue.dispatchEventSynchronous(ListenerQueue.java:151)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.dispatchEvent(EventAdminImpl.java:133)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.sendEvent(EventAdminImpl.java:75)
+	at org.eclipse.equinox.internal.event.EventComponent.sendEvent(EventComponent.java:44)
+	at org.eclipse.e4.ui.services.internal.events.EventBroker.send(EventBroker.java:55)
+	at org.eclipse.e4.ui.internal.workbench.UIEventPublisher.notifyChanged(UIEventPublisher.java:63)
+	at org.eclipse.emf.common.notify.impl.BasicNotifierImpl.eNotify(BasicNotifierImpl.java:424)
+	at org.eclipse.e4.ui.model.application.ui.impl.ElementContainerImpl.setSelectedElementGen(ElementContainerImpl.java:170)
+	at org.eclipse.e4.ui.model.application.ui.impl.ElementContainerImpl.setSelectedElement(ElementContainerImpl.java:188)
+	at org.eclipse.e4.ui.internal.workbench.ModelServiceImpl.showElementInWindow(ModelServiceImpl.java:660)
+	at org.eclipse.e4.ui.internal.workbench.ModelServiceImpl.bringToTop(ModelServiceImpl.java:624)
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.delegateBringToTop(PartServiceImpl.java:787)
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.bringToTop(PartServiceImpl.java:401)
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.showPart(PartServiceImpl.java:1261)
+	at org.eclipse.ui.internal.WorkbenchPage.busyOpenEditor(WorkbenchPage.java:3207)
+	at org.eclipse.ui.internal.WorkbenchPage.lambda$9(WorkbenchPage.java:3097)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:74)
+	at org.eclipse.ui.internal.WorkbenchPage.openEditor(WorkbenchPage.java:3095)
+	at org.eclipse.ui.internal.WorkbenchPage.openEditor(WorkbenchPage.java:3065)
+	at org.eclipse.ui.internal.WorkbenchPage.openEditor(WorkbenchPage.java:3056)
+	at org.eclipse.ui.ide.IDE.openEditor(IDE.java:569)
+	at org.eclipse.ui.ide.IDE.openEditor(IDE.java:524)
+	at org.eclipse.jdt.internal.ui.javaeditor.EditorUtility.openInEditor(EditorUtility.java:367)
+	at org.eclipse.jdt.internal.ui.javaeditor.EditorUtility.openInEditor(EditorUtility.java:172)
+	at org.eclipse.jdt.ui.actions.OpenAction.run(OpenAction.java:288)
+	at org.eclipse.jdt.ui.actions.OpenAction.run(OpenAction.java:254)
+	at org.eclipse.jdt.ui.actions.SelectionDispatchAction.dispatchRun(SelectionDispatchAction.java:274)
+	at org.eclipse.jdt.ui.actions.SelectionDispatchAction.run(SelectionDispatchAction.java:252)
+	at org.eclipse.jdt.internal.ui.packageview.PackageExplorerActionGroup.handleOpen(PackageExplorerActionGroup.java:366)
+	at org.eclipse.jdt.internal.ui.packageview.PackageExplorerPart$3.open(PackageExplorerPart.java:545)
+	at org.eclipse.ui.OpenAndLinkWithEditorHelper$InternalListener.open(OpenAndLinkWithEditorHelper.java:48)
+	at org.eclipse.jface.viewers.StructuredViewer$2.run(StructuredViewer.java:800)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:174)
+	at org.eclipse.jface.viewers.StructuredViewer.fireOpen(StructuredViewer.java:797)
+	at org.eclipse.jface.viewers.StructuredViewer.handleOpen(StructuredViewer.java:1116)
+	at org.eclipse.jface.util.OpenStrategy.fireOpenEvent(OpenStrategy.java:296)
+	at org.eclipse.jface.util.OpenStrategy$1.handleEvent(OpenStrategy.java:331)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4251)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1066)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4068)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3645)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1155)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:644)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:551)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:156)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:402)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2024-02-13 13:40:40.381
+!MESSAGE Could not download javadoc for com.google.guava:listenablefuture:9999.0-empty-to-avoid-conflict-with-guava
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact com.google.guava:listenablefuture:jar:javadoc:9999.0-empty-to-avoid-conflict-with-guava
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:828)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:117)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:103)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:796)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:773)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:311)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:297)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:255)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:223)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:152)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:156)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:103)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1416)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:152)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing com.google.guava:listenablefuture:jar:javadoc:9999.0-empty-to-avoid-conflict-with-guava
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2024-02-13 13:40:40.381
+!MESSAGE Could not resolve artifact com.google.guava:listenablefuture:jar:javadoc:9999.0-empty-to-avoid-conflict-with-guava
+!SUBENTRY 2 org.eclipse.m2e.core 4 -1 2024-02-13 13:40:40.381
+!MESSAGE Missing com.google.guava:listenablefuture:jar:javadoc:9999.0-empty-to-avoid-conflict-with-guava
+
+!ENTRY org.eclipse.lsp4e 4 0 2024-02-15 13:10:38.335
+!MESSAGE org.eclipse.lsp4j.jsonrpc.JsonRpcException: java.io.IOException: The pipe is being closed
+!STACK 0
+java.util.concurrent.ExecutionException: org.eclipse.lsp4j.jsonrpc.JsonRpcException: java.io.IOException: The pipe is being closed
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:396)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2096)
+	at org.eclipse.lsp4e.LanguageServerWrapper.lambda$12(LanguageServerWrapper.java:456)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+Caused by: org.eclipse.lsp4j.jsonrpc.JsonRpcException: java.io.IOException: The pipe is being closed
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageConsumer.consume(StreamMessageConsumer.java:72)
+	at org.eclipse.lsp4e.LanguageServerWrapper.lambda$3(LanguageServerWrapper.java:270)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.request(RemoteEndpoint.java:161)
+	at org.eclipse.lsp4j.jsonrpc.services.EndpointProxy.invoke(EndpointProxy.java:91)
+	at jdk.proxy13/jdk.proxy13.$Proxy51.shutdown(Unknown Source)
+	at org.eclipse.lsp4e.LanguageServerWrapper.lambda$12(LanguageServerWrapper.java:454)
+	... 7 more
+Caused by: java.io.IOException: The pipe is being closed
+	at java.base/java.io.FileOutputStream.writeBytes(Native Method)
+	at java.base/java.io.FileOutputStream.write(FileOutputStream.java:349)
+	at java.base/java.io.BufferedOutputStream.flushBuffer(BufferedOutputStream.java:81)
+	at java.base/java.io.BufferedOutputStream.flush(BufferedOutputStream.java:142)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageConsumer.consume(StreamMessageConsumer.java:69)
+	... 12 more
+!SESSION 2024-03-15 11:05:33.893 -----------------------------------------------
+eclipse.buildId=4.24.0.I20220607-0700
+java.version=17.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.core.resources 2 10035 2024-03-15 11:05:44.094
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.jface 2 0 2024-03-15 11:05:59.611
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2024-03-15 11:05:59.611
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@6167c42f,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@2cbc2db2,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2024-03-15 11:05:59.611
+!MESSAGE A conflict occurred for ALT+SHIFT+R:
+Binding(ALT+SHIFT+R,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.rename.element,Rename - Refactoring ,
+		Rename the selected element,
+		Category(org.eclipse.jdt.ui.category.refactoring,Refactor - Java,Java Refactoring Actions,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@2de96eba,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+SHIFT+R,
+	ParameterizedCommand(Command(org.eclipse.ui.edit.rename,Rename,
+		Rename the selected item,
+		Category(org.eclipse.ui.category.file,File,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@3ef914f5,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-03-15 11:06:06.481
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\hp'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2024-03-15 18:53:43.602 -----------------------------------------------
+eclipse.buildId=4.24.0.I20220607-0700
+java.version=17.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.jface 2 0 2024-03-15 18:53:53.444
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2024-03-15 18:53:53.444
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@43f7f48d,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@6d0a4a22,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2024-03-15 18:53:53.444
+!MESSAGE A conflict occurred for ALT+SHIFT+R:
+Binding(ALT+SHIFT+R,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.rename.element,Rename - Refactoring ,
+		Rename the selected element,
+		Category(org.eclipse.jdt.ui.category.refactoring,Refactor - Java,Java Refactoring Actions,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@1999e1f5,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+SHIFT+R,
+	ParameterizedCommand(Command(org.eclipse.ui.edit.rename,Rename,
+		Rename the selected item,
+		Category(org.eclipse.ui.category.file,File,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@b1fa523,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-03-15 18:53:58.182
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\hp'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2024-03-15 18:55:30.052
+!MESSAGE Project read error
+!STACK 0
+org.eclipse.aether.collection.DependencyCollectionException: Failed to collect dependencies for [junit:junit:jar:4.11 (test), com.sun:tools:jar:1.5.0 (system), io.cucumber:cucumber-html:jar:0.2.7 (compile), net.sourceforge.cobertura:cobertura:jar:2.1.1 (test), io.cucumber:cucumber-java:jar:7.14.0 (compile), io.cucumber:cucumber-jvm-deps:jar:1.0.6 (provided), net.masterthought:cucumber-reporting:jar:5.7.1 (compile), org.hamcrest:hamcrest-core:jar:2.2 (test), io.cucumber:gherkin:jar:23.0.1 (compile), org.seleniumhq.selenium:selenium-java:jar:4.2.1 (compile), io.github.bonigarcia:webdrivermanager:jar:5.2.0 (compile), commons-io:commons-io:jar:2.11.0 (compile), org.apache.logging.log4j:log4j-core:jar:2.17.2 (compile), org.apache.logging.log4j:log4j-api:jar:2.17.2 (compile), org.testng:testng:jar:7.4.0 (test), io.cucumber:cucumber-testng:jar:7.3.4 (compile), info.cukes:cucumber-junit:jar:1.2.5 (test)]
+	at org.eclipse.aether.internal.impl.collect.DefaultDependencyCollector.collectDependencies(DefaultDependencyCollector.java:292)
+	at org.eclipse.aether.internal.impl.DefaultRepositorySystem.collectDependencies(DefaultRepositorySystem.java:284)
+	at org.eclipse.m2e.core.embedder.MavenModelManager.readDependencyTree(MavenModelManager.java:241)
+	at org.eclipse.m2e.core.embedder.MavenModelManager.lambda$0(MavenModelManager.java:200)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:117)
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectManager.lambda$0(MavenProjectManager.java:136)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:156)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:103)
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectManager.execute(MavenProjectManager.java:136)
+	at org.eclipse.m2e.core.embedder.MavenModelManager.readDependencyTree(MavenModelManager.java:202)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor.readDependencyTree(MavenPomEditor.java:614)
+	at org.eclipse.m2e.editor.pom.DependencyTreePage$1.run(DependencyTreePage.java:225)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.eclipse.aether.collection.UnsolvableVersionConflictException: Could not resolve version conflict among [io.cucumber:cucumber-java:jar:7.14.0 -> io.cucumber:cucumber-core:jar:7.14.0 -> io.cucumber:messages:jar:22.0.0, io.cucumber:cucumber-java:jar:7.14.0 -> io.cucumber:cucumber-core:jar:7.14.0 -> io.cucumber:html-formatter:jar:20.4.0 -> io.cucumber:messages:jar:[18.0.0,23.0.0), io.cucumber:cucumber-java:jar:7.14.0 -> io.cucumber:cucumber-core:jar:7.14.0 -> io.cucumber:junit-xml-formatter:jar:0.2.0 -> io.cucumber:messages:jar:[21.0.1,23.0.0), io.cucumber:gherkin:jar:23.0.1 -> io.cucumber:messages:jar:[18.0.0,19.0.0)]
+	at org.eclipse.aether.util.graph.transformer.NearestVersionSelector.newFailure(NearestVersionSelector.java:159)
+	at org.eclipse.aether.util.graph.transformer.NearestVersionSelector.backtrack(NearestVersionSelector.java:120)
+	at org.eclipse.aether.util.graph.transformer.NearestVersionSelector.selectVersion(NearestVersionSelector.java:93)
+	at org.eclipse.aether.util.graph.transformer.ConflictResolver.transformGraph(ConflictResolver.java:180)
+	at org.eclipse.aether.internal.impl.collect.DefaultDependencyCollector.collectDependencies(DefaultDependencyCollector.java:273)
+	... 14 more
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2024-03-15 18:55:30.055
+!MESSAGE Project read error
+!STACK 1
+org.eclipse.core.runtime.CoreException: Project read error
+	at org.eclipse.m2e.core.embedder.MavenModelManager.readDependencyTree(MavenModelManager.java:245)
+	at org.eclipse.m2e.core.embedder.MavenModelManager.lambda$0(MavenModelManager.java:200)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:117)
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectManager.lambda$0(MavenProjectManager.java:136)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:156)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:103)
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectManager.execute(MavenProjectManager.java:136)
+	at org.eclipse.m2e.core.embedder.MavenModelManager.readDependencyTree(MavenModelManager.java:202)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor.readDependencyTree(MavenPomEditor.java:614)
+	at org.eclipse.m2e.editor.pom.DependencyTreePage$1.run(DependencyTreePage.java:225)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.eclipse.aether.collection.DependencyCollectionException: Failed to collect dependencies for [junit:junit:jar:4.11 (test), com.sun:tools:jar:1.5.0 (system), io.cucumber:cucumber-html:jar:0.2.7 (compile), net.sourceforge.cobertura:cobertura:jar:2.1.1 (test), io.cucumber:cucumber-java:jar:7.14.0 (compile), io.cucumber:cucumber-jvm-deps:jar:1.0.6 (provided), net.masterthought:cucumber-reporting:jar:5.7.1 (compile), org.hamcrest:hamcrest-core:jar:2.2 (test), io.cucumber:gherkin:jar:23.0.1 (compile), org.seleniumhq.selenium:selenium-java:jar:4.2.1 (compile), io.github.bonigarcia:webdrivermanager:jar:5.2.0 (compile), commons-io:commons-io:jar:2.11.0 (compile), org.apache.logging.log4j:log4j-core:jar:2.17.2 (compile), org.apache.logging.log4j:log4j-api:jar:2.17.2 (compile), org.testng:testng:jar:7.4.0 (test), io.cucumber:cucumber-testng:jar:7.3.4 (compile), info.cukes:cucumber-junit:jar:1.2.5 (test)]
+	at org.eclipse.aether.internal.impl.collect.DefaultDependencyCollector.collectDependencies(DefaultDependencyCollector.java:292)
+	at org.eclipse.aether.internal.impl.DefaultRepositorySystem.collectDependencies(DefaultRepositorySystem.java:284)
+	at org.eclipse.m2e.core.embedder.MavenModelManager.readDependencyTree(MavenModelManager.java:241)
+	... 12 more
+Caused by: org.eclipse.aether.collection.UnsolvableVersionConflictException: Could not resolve version conflict among [io.cucumber:cucumber-java:jar:7.14.0 -> io.cucumber:cucumber-core:jar:7.14.0 -> io.cucumber:messages:jar:22.0.0, io.cucumber:cucumber-java:jar:7.14.0 -> io.cucumber:cucumber-core:jar:7.14.0 -> io.cucumber:html-formatter:jar:20.4.0 -> io.cucumber:messages:jar:[18.0.0,23.0.0), io.cucumber:cucumber-java:jar:7.14.0 -> io.cucumber:cucumber-core:jar:7.14.0 -> io.cucumber:junit-xml-formatter:jar:0.2.0 -> io.cucumber:messages:jar:[21.0.1,23.0.0), io.cucumber:gherkin:jar:23.0.1 -> io.cucumber:messages:jar:[18.0.0,19.0.0)]
+	at org.eclipse.aether.util.graph.transformer.NearestVersionSelector.newFailure(NearestVersionSelector.java:159)
+	at org.eclipse.aether.util.graph.transformer.NearestVersionSelector.backtrack(NearestVersionSelector.java:120)
+	at org.eclipse.aether.util.graph.transformer.NearestVersionSelector.selectVersion(NearestVersionSelector.java:93)
+	at org.eclipse.aether.util.graph.transformer.ConflictResolver.transformGraph(ConflictResolver.java:180)
+	at org.eclipse.aether.internal.impl.collect.DefaultDependencyCollector.collectDependencies(DefaultDependencyCollector.java:273)
+	... 14 more
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2024-03-15 18:55:30.056
+!MESSAGE Project read error
+!STACK 0
+org.eclipse.aether.collection.DependencyCollectionException: Failed to collect dependencies for [junit:junit:jar:4.11 (test), com.sun:tools:jar:1.5.0 (system), io.cucumber:cucumber-html:jar:0.2.7 (compile), net.sourceforge.cobertura:cobertura:jar:2.1.1 (test), io.cucumber:cucumber-java:jar:7.14.0 (compile), io.cucumber:cucumber-jvm-deps:jar:1.0.6 (provided), net.masterthought:cucumber-reporting:jar:5.7.1 (compile), org.hamcrest:hamcrest-core:jar:2.2 (test), io.cucumber:gherkin:jar:23.0.1 (compile), org.seleniumhq.selenium:selenium-java:jar:4.2.1 (compile), io.github.bonigarcia:webdrivermanager:jar:5.2.0 (compile), commons-io:commons-io:jar:2.11.0 (compile), org.apache.logging.log4j:log4j-core:jar:2.17.2 (compile), org.apache.logging.log4j:log4j-api:jar:2.17.2 (compile), org.testng:testng:jar:7.4.0 (test), io.cucumber:cucumber-testng:jar:7.3.4 (compile), info.cukes:cucumber-junit:jar:1.2.5 (test)]
+	at org.eclipse.aether.internal.impl.collect.DefaultDependencyCollector.collectDependencies(DefaultDependencyCollector.java:292)
+	at org.eclipse.aether.internal.impl.DefaultRepositorySystem.collectDependencies(DefaultRepositorySystem.java:284)
+	at org.eclipse.m2e.core.embedder.MavenModelManager.readDependencyTree(MavenModelManager.java:241)
+	at org.eclipse.m2e.core.embedder.MavenModelManager.lambda$0(MavenModelManager.java:200)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:117)
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectManager.lambda$0(MavenProjectManager.java:136)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:156)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:103)
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectManager.execute(MavenProjectManager.java:136)
+	at org.eclipse.m2e.core.embedder.MavenModelManager.readDependencyTree(MavenModelManager.java:202)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor.readDependencyTree(MavenPomEditor.java:614)
+	at org.eclipse.m2e.editor.pom.DependencyTreePage$1.run(DependencyTreePage.java:225)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.eclipse.aether.collection.UnsolvableVersionConflictException: Could not resolve version conflict among [io.cucumber:cucumber-java:jar:7.14.0 -> io.cucumber:cucumber-core:jar:7.14.0 -> io.cucumber:messages:jar:22.0.0, io.cucumber:cucumber-java:jar:7.14.0 -> io.cucumber:cucumber-core:jar:7.14.0 -> io.cucumber:html-formatter:jar:20.4.0 -> io.cucumber:messages:jar:[18.0.0,23.0.0), io.cucumber:cucumber-java:jar:7.14.0 -> io.cucumber:cucumber-core:jar:7.14.0 -> io.cucumber:junit-xml-formatter:jar:0.2.0 -> io.cucumber:messages:jar:[21.0.1,23.0.0), io.cucumber:gherkin:jar:23.0.1 -> io.cucumber:messages:jar:[18.0.0,19.0.0)]
+	at org.eclipse.aether.util.graph.transformer.NearestVersionSelector.newFailure(NearestVersionSelector.java:159)
+	at org.eclipse.aether.util.graph.transformer.NearestVersionSelector.backtrack(NearestVersionSelector.java:120)
+	at org.eclipse.aether.util.graph.transformer.NearestVersionSelector.selectVersion(NearestVersionSelector.java:93)
+	at org.eclipse.aether.util.graph.transformer.ConflictResolver.transformGraph(ConflictResolver.java:180)
+	at org.eclipse.aether.internal.impl.collect.DefaultDependencyCollector.collectDependencies(DefaultDependencyCollector.java:273)
+	... 14 more
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2024-03-15 19:06:03.103
+!MESSAGE Project read error
+!STACK 0
+org.eclipse.aether.collection.DependencyCollectionException: Failed to collect dependencies for [junit:junit:jar:4.11 (test), com.sun:tools:jar:1.5.0 (system), io.cucumber:cucumber-html:jar:0.2.7 (compile), net.sourceforge.cobertura:cobertura:jar:2.1.1 (test), io.cucumber:cucumber-java:jar:7.14.0 (compile), io.cucumber:cucumber-jvm-deps:jar:1.0.6 (provided), net.masterthought:cucumber-reporting:jar:5.7.1 (compile), org.hamcrest:hamcrest-core:jar:2.2 (test), io.cucumber:gherkin:jar:23.0.1 (compile), org.seleniumhq.selenium:selenium-java:jar:4.2.1 (compile), io.github.bonigarcia:webdrivermanager:jar:5.2.0 (compile), commons-io:commons-io:jar:2.11.0 (compile), org.apache.logging.log4j:log4j-core:jar:2.17.2 (compile), org.apache.logging.log4j:log4j-api:jar:2.17.2 (compile), org.testng:testng:jar:7.4.0 (test), io.cucumber:cucumber-testng:jar:7.3.4 (compile), info.cukes:cucumber-junit:jar:1.2.5 (test)]
+	at org.eclipse.aether.internal.impl.collect.DefaultDependencyCollector.collectDependencies(DefaultDependencyCollector.java:292)
+	at org.eclipse.aether.internal.impl.DefaultRepositorySystem.collectDependencies(DefaultRepositorySystem.java:284)
+	at org.eclipse.m2e.core.embedder.MavenModelManager.readDependencyTree(MavenModelManager.java:241)
+	at org.eclipse.m2e.core.embedder.MavenModelManager.lambda$0(MavenModelManager.java:200)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:117)
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectManager.lambda$0(MavenProjectManager.java:136)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:156)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:103)
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectManager.execute(MavenProjectManager.java:136)
+	at org.eclipse.m2e.core.embedder.MavenModelManager.readDependencyTree(MavenModelManager.java:202)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor.readDependencyTree(MavenPomEditor.java:614)
+	at org.eclipse.m2e.editor.pom.DependencyTreePage$1.run(DependencyTreePage.java:225)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.eclipse.aether.collection.UnsolvableVersionConflictException: Could not resolve version conflict among [io.cucumber:cucumber-java:jar:7.14.0 -> io.cucumber:cucumber-core:jar:7.14.0 -> io.cucumber:messages:jar:22.0.0, io.cucumber:cucumber-java:jar:7.14.0 -> io.cucumber:cucumber-core:jar:7.14.0 -> io.cucumber:html-formatter:jar:20.4.0 -> io.cucumber:messages:jar:[18.0.0,23.0.0), io.cucumber:cucumber-java:jar:7.14.0 -> io.cucumber:cucumber-core:jar:7.14.0 -> io.cucumber:junit-xml-formatter:jar:0.2.0 -> io.cucumber:messages:jar:[21.0.1,23.0.0), io.cucumber:gherkin:jar:23.0.1 -> io.cucumber:messages:jar:[18.0.0,19.0.0)]
+	at org.eclipse.aether.util.graph.transformer.NearestVersionSelector.newFailure(NearestVersionSelector.java:159)
+	at org.eclipse.aether.util.graph.transformer.NearestVersionSelector.backtrack(NearestVersionSelector.java:120)
+	at org.eclipse.aether.util.graph.transformer.NearestVersionSelector.selectVersion(NearestVersionSelector.java:93)
+	at org.eclipse.aether.util.graph.transformer.ConflictResolver.transformGraph(ConflictResolver.java:180)
+	at org.eclipse.aether.internal.impl.collect.DefaultDependencyCollector.collectDependencies(DefaultDependencyCollector.java:273)
+	... 14 more
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2024-03-15 19:06:03.106
+!MESSAGE Project read error
+!STACK 1
+org.eclipse.core.runtime.CoreException: Project read error
+	at org.eclipse.m2e.core.embedder.MavenModelManager.readDependencyTree(MavenModelManager.java:245)
+	at org.eclipse.m2e.core.embedder.MavenModelManager.lambda$0(MavenModelManager.java:200)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:117)
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectManager.lambda$0(MavenProjectManager.java:136)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:156)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:103)
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectManager.execute(MavenProjectManager.java:136)
+	at org.eclipse.m2e.core.embedder.MavenModelManager.readDependencyTree(MavenModelManager.java:202)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor.readDependencyTree(MavenPomEditor.java:614)
+	at org.eclipse.m2e.editor.pom.DependencyTreePage$1.run(DependencyTreePage.java:225)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.eclipse.aether.collection.DependencyCollectionException: Failed to collect dependencies for [junit:junit:jar:4.11 (test), com.sun:tools:jar:1.5.0 (system), io.cucumber:cucumber-html:jar:0.2.7 (compile), net.sourceforge.cobertura:cobertura:jar:2.1.1 (test), io.cucumber:cucumber-java:jar:7.14.0 (compile), io.cucumber:cucumber-jvm-deps:jar:1.0.6 (provided), net.masterthought:cucumber-reporting:jar:5.7.1 (compile), org.hamcrest:hamcrest-core:jar:2.2 (test), io.cucumber:gherkin:jar:23.0.1 (compile), org.seleniumhq.selenium:selenium-java:jar:4.2.1 (compile), io.github.bonigarcia:webdrivermanager:jar:5.2.0 (compile), commons-io:commons-io:jar:2.11.0 (compile), org.apache.logging.log4j:log4j-core:jar:2.17.2 (compile), org.apache.logging.log4j:log4j-api:jar:2.17.2 (compile), org.testng:testng:jar:7.4.0 (test), io.cucumber:cucumber-testng:jar:7.3.4 (compile), info.cukes:cucumber-junit:jar:1.2.5 (test)]
+	at org.eclipse.aether.internal.impl.collect.DefaultDependencyCollector.collectDependencies(DefaultDependencyCollector.java:292)
+	at org.eclipse.aether.internal.impl.DefaultRepositorySystem.collectDependencies(DefaultRepositorySystem.java:284)
+	at org.eclipse.m2e.core.embedder.MavenModelManager.readDependencyTree(MavenModelManager.java:241)
+	... 12 more
+Caused by: org.eclipse.aether.collection.UnsolvableVersionConflictException: Could not resolve version conflict among [io.cucumber:cucumber-java:jar:7.14.0 -> io.cucumber:cucumber-core:jar:7.14.0 -> io.cucumber:messages:jar:22.0.0, io.cucumber:cucumber-java:jar:7.14.0 -> io.cucumber:cucumber-core:jar:7.14.0 -> io.cucumber:html-formatter:jar:20.4.0 -> io.cucumber:messages:jar:[18.0.0,23.0.0), io.cucumber:cucumber-java:jar:7.14.0 -> io.cucumber:cucumber-core:jar:7.14.0 -> io.cucumber:junit-xml-formatter:jar:0.2.0 -> io.cucumber:messages:jar:[21.0.1,23.0.0), io.cucumber:gherkin:jar:23.0.1 -> io.cucumber:messages:jar:[18.0.0,19.0.0)]
+	at org.eclipse.aether.util.graph.transformer.NearestVersionSelector.newFailure(NearestVersionSelector.java:159)
+	at org.eclipse.aether.util.graph.transformer.NearestVersionSelector.backtrack(NearestVersionSelector.java:120)
+	at org.eclipse.aether.util.graph.transformer.NearestVersionSelector.selectVersion(NearestVersionSelector.java:93)
+	at org.eclipse.aether.util.graph.transformer.ConflictResolver.transformGraph(ConflictResolver.java:180)
+	at org.eclipse.aether.internal.impl.collect.DefaultDependencyCollector.collectDependencies(DefaultDependencyCollector.java:273)
+	... 14 more
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2024-03-15 19:06:03.106
+!MESSAGE Project read error
+!STACK 0
+org.eclipse.aether.collection.DependencyCollectionException: Failed to collect dependencies for [junit:junit:jar:4.11 (test), com.sun:tools:jar:1.5.0 (system), io.cucumber:cucumber-html:jar:0.2.7 (compile), net.sourceforge.cobertura:cobertura:jar:2.1.1 (test), io.cucumber:cucumber-java:jar:7.14.0 (compile), io.cucumber:cucumber-jvm-deps:jar:1.0.6 (provided), net.masterthought:cucumber-reporting:jar:5.7.1 (compile), org.hamcrest:hamcrest-core:jar:2.2 (test), io.cucumber:gherkin:jar:23.0.1 (compile), org.seleniumhq.selenium:selenium-java:jar:4.2.1 (compile), io.github.bonigarcia:webdrivermanager:jar:5.2.0 (compile), commons-io:commons-io:jar:2.11.0 (compile), org.apache.logging.log4j:log4j-core:jar:2.17.2 (compile), org.apache.logging.log4j:log4j-api:jar:2.17.2 (compile), org.testng:testng:jar:7.4.0 (test), io.cucumber:cucumber-testng:jar:7.3.4 (compile), info.cukes:cucumber-junit:jar:1.2.5 (test)]
+	at org.eclipse.aether.internal.impl.collect.DefaultDependencyCollector.collectDependencies(DefaultDependencyCollector.java:292)
+	at org.eclipse.aether.internal.impl.DefaultRepositorySystem.collectDependencies(DefaultRepositorySystem.java:284)
+	at org.eclipse.m2e.core.embedder.MavenModelManager.readDependencyTree(MavenModelManager.java:241)
+	at org.eclipse.m2e.core.embedder.MavenModelManager.lambda$0(MavenModelManager.java:200)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:117)
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectManager.lambda$0(MavenProjectManager.java:136)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:156)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:103)
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectManager.execute(MavenProjectManager.java:136)
+	at org.eclipse.m2e.core.embedder.MavenModelManager.readDependencyTree(MavenModelManager.java:202)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor.readDependencyTree(MavenPomEditor.java:614)
+	at org.eclipse.m2e.editor.pom.DependencyTreePage$1.run(DependencyTreePage.java:225)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.eclipse.aether.collection.UnsolvableVersionConflictException: Could not resolve version conflict among [io.cucumber:cucumber-java:jar:7.14.0 -> io.cucumber:cucumber-core:jar:7.14.0 -> io.cucumber:messages:jar:22.0.0, io.cucumber:cucumber-java:jar:7.14.0 -> io.cucumber:cucumber-core:jar:7.14.0 -> io.cucumber:html-formatter:jar:20.4.0 -> io.cucumber:messages:jar:[18.0.0,23.0.0), io.cucumber:cucumber-java:jar:7.14.0 -> io.cucumber:cucumber-core:jar:7.14.0 -> io.cucumber:junit-xml-formatter:jar:0.2.0 -> io.cucumber:messages:jar:[21.0.1,23.0.0), io.cucumber:gherkin:jar:23.0.1 -> io.cucumber:messages:jar:[18.0.0,19.0.0)]
+	at org.eclipse.aether.util.graph.transformer.NearestVersionSelector.newFailure(NearestVersionSelector.java:159)
+	at org.eclipse.aether.util.graph.transformer.NearestVersionSelector.backtrack(NearestVersionSelector.java:120)
+	at org.eclipse.aether.util.graph.transformer.NearestVersionSelector.selectVersion(NearestVersionSelector.java:93)
+	at org.eclipse.aether.util.graph.transformer.ConflictResolver.transformGraph(ConflictResolver.java:180)
+	at org.eclipse.aether.internal.impl.collect.DefaultDependencyCollector.collectDependencies(DefaultDependencyCollector.java:273)
+	... 14 more
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2024-03-15 19:07:38.189
+!MESSAGE Project read error
+!STACK 0
+org.eclipse.aether.collection.DependencyCollectionException: Failed to collect dependencies for [junit:junit:jar:4.11 (test), com.sun:tools:jar:1.5.0 (system), io.cucumber:cucumber-html:jar:0.2.7 (compile), net.sourceforge.cobertura:cobertura:jar:2.1.1 (test), io.cucumber:cucumber-java:jar:7.14.0 (compile), io.cucumber:cucumber-jvm-deps:jar:1.0.6 (provided), net.masterthought:cucumber-reporting:jar:5.7.1 (compile), org.hamcrest:hamcrest-core:jar:2.2 (test), io.cucumber:gherkin:jar:23.0.1 (compile), org.seleniumhq.selenium:selenium-java:jar:4.2.1 (compile), io.github.bonigarcia:webdrivermanager:jar:5.2.0 (compile), commons-io:commons-io:jar:2.11.0 (compile), org.apache.logging.log4j:log4j-core:jar:2.17.2 (compile), org.apache.logging.log4j:log4j-api:jar:2.17.2 (compile), org.testng:testng:jar:7.4.0 (test), io.cucumber:cucumber-testng:jar:7.3.4 (compile), info.cukes:cucumber-junit:jar:1.2.5 (test)]
+	at org.eclipse.aether.internal.impl.collect.DefaultDependencyCollector.collectDependencies(DefaultDependencyCollector.java:292)
+	at org.eclipse.aether.internal.impl.DefaultRepositorySystem.collectDependencies(DefaultRepositorySystem.java:284)
+	at org.eclipse.m2e.core.embedder.MavenModelManager.readDependencyTree(MavenModelManager.java:241)
+	at org.eclipse.m2e.core.embedder.MavenModelManager.lambda$0(MavenModelManager.java:200)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:117)
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectManager.lambda$0(MavenProjectManager.java:136)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:156)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:103)
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectManager.execute(MavenProjectManager.java:136)
+	at org.eclipse.m2e.core.embedder.MavenModelManager.readDependencyTree(MavenModelManager.java:202)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor.readDependencyTree(MavenPomEditor.java:614)
+	at org.eclipse.m2e.editor.pom.DependencyTreePage$1.run(DependencyTreePage.java:225)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.eclipse.aether.collection.UnsolvableVersionConflictException: Could not resolve version conflict among [io.cucumber:cucumber-java:jar:7.14.0 -> io.cucumber:cucumber-core:jar:7.14.0 -> io.cucumber:messages:jar:22.0.0, io.cucumber:cucumber-java:jar:7.14.0 -> io.cucumber:cucumber-core:jar:7.14.0 -> io.cucumber:html-formatter:jar:20.4.0 -> io.cucumber:messages:jar:[18.0.0,23.0.0), io.cucumber:cucumber-java:jar:7.14.0 -> io.cucumber:cucumber-core:jar:7.14.0 -> io.cucumber:junit-xml-formatter:jar:0.2.0 -> io.cucumber:messages:jar:[21.0.1,23.0.0), io.cucumber:gherkin:jar:23.0.1 -> io.cucumber:messages:jar:[18.0.0,19.0.0)]
+	at org.eclipse.aether.util.graph.transformer.NearestVersionSelector.newFailure(NearestVersionSelector.java:159)
+	at org.eclipse.aether.util.graph.transformer.NearestVersionSelector.backtrack(NearestVersionSelector.java:120)
+	at org.eclipse.aether.util.graph.transformer.NearestVersionSelector.selectVersion(NearestVersionSelector.java:93)
+	at org.eclipse.aether.util.graph.transformer.ConflictResolver.transformGraph(ConflictResolver.java:180)
+	at org.eclipse.aether.internal.impl.collect.DefaultDependencyCollector.collectDependencies(DefaultDependencyCollector.java:273)
+	... 14 more
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2024-03-15 19:07:38.191
+!MESSAGE Project read error
+!STACK 1
+org.eclipse.core.runtime.CoreException: Project read error
+	at org.eclipse.m2e.core.embedder.MavenModelManager.readDependencyTree(MavenModelManager.java:245)
+	at org.eclipse.m2e.core.embedder.MavenModelManager.lambda$0(MavenModelManager.java:200)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:117)
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectManager.lambda$0(MavenProjectManager.java:136)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:156)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:103)
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectManager.execute(MavenProjectManager.java:136)
+	at org.eclipse.m2e.core.embedder.MavenModelManager.readDependencyTree(MavenModelManager.java:202)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor.readDependencyTree(MavenPomEditor.java:614)
+	at org.eclipse.m2e.editor.pom.DependencyTreePage$1.run(DependencyTreePage.java:225)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.eclipse.aether.collection.DependencyCollectionException: Failed to collect dependencies for [junit:junit:jar:4.11 (test), com.sun:tools:jar:1.5.0 (system), io.cucumber:cucumber-html:jar:0.2.7 (compile), net.sourceforge.cobertura:cobertura:jar:2.1.1 (test), io.cucumber:cucumber-java:jar:7.14.0 (compile), io.cucumber:cucumber-jvm-deps:jar:1.0.6 (provided), net.masterthought:cucumber-reporting:jar:5.7.1 (compile), org.hamcrest:hamcrest-core:jar:2.2 (test), io.cucumber:gherkin:jar:23.0.1 (compile), org.seleniumhq.selenium:selenium-java:jar:4.2.1 (compile), io.github.bonigarcia:webdrivermanager:jar:5.2.0 (compile), commons-io:commons-io:jar:2.11.0 (compile), org.apache.logging.log4j:log4j-core:jar:2.17.2 (compile), org.apache.logging.log4j:log4j-api:jar:2.17.2 (compile), org.testng:testng:jar:7.4.0 (test), io.cucumber:cucumber-testng:jar:7.3.4 (compile), info.cukes:cucumber-junit:jar:1.2.5 (test)]
+	at org.eclipse.aether.internal.impl.collect.DefaultDependencyCollector.collectDependencies(DefaultDependencyCollector.java:292)
+	at org.eclipse.aether.internal.impl.DefaultRepositorySystem.collectDependencies(DefaultRepositorySystem.java:284)
+	at org.eclipse.m2e.core.embedder.MavenModelManager.readDependencyTree(MavenModelManager.java:241)
+	... 12 more
+Caused by: org.eclipse.aether.collection.UnsolvableVersionConflictException: Could not resolve version conflict among [io.cucumber:cucumber-java:jar:7.14.0 -> io.cucumber:cucumber-core:jar:7.14.0 -> io.cucumber:messages:jar:22.0.0, io.cucumber:cucumber-java:jar:7.14.0 -> io.cucumber:cucumber-core:jar:7.14.0 -> io.cucumber:html-formatter:jar:20.4.0 -> io.cucumber:messages:jar:[18.0.0,23.0.0), io.cucumber:cucumber-java:jar:7.14.0 -> io.cucumber:cucumber-core:jar:7.14.0 -> io.cucumber:junit-xml-formatter:jar:0.2.0 -> io.cucumber:messages:jar:[21.0.1,23.0.0), io.cucumber:gherkin:jar:23.0.1 -> io.cucumber:messages:jar:[18.0.0,19.0.0)]
+	at org.eclipse.aether.util.graph.transformer.NearestVersionSelector.newFailure(NearestVersionSelector.java:159)
+	at org.eclipse.aether.util.graph.transformer.NearestVersionSelector.backtrack(NearestVersionSelector.java:120)
+	at org.eclipse.aether.util.graph.transformer.NearestVersionSelector.selectVersion(NearestVersionSelector.java:93)
+	at org.eclipse.aether.util.graph.transformer.ConflictResolver.transformGraph(ConflictResolver.java:180)
+	at org.eclipse.aether.internal.impl.collect.DefaultDependencyCollector.collectDependencies(DefaultDependencyCollector.java:273)
+	... 14 more
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2024-03-15 19:07:38.192
+!MESSAGE Project read error
+!STACK 0
+org.eclipse.aether.collection.DependencyCollectionException: Failed to collect dependencies for [junit:junit:jar:4.11 (test), com.sun:tools:jar:1.5.0 (system), io.cucumber:cucumber-html:jar:0.2.7 (compile), net.sourceforge.cobertura:cobertura:jar:2.1.1 (test), io.cucumber:cucumber-java:jar:7.14.0 (compile), io.cucumber:cucumber-jvm-deps:jar:1.0.6 (provided), net.masterthought:cucumber-reporting:jar:5.7.1 (compile), org.hamcrest:hamcrest-core:jar:2.2 (test), io.cucumber:gherkin:jar:23.0.1 (compile), org.seleniumhq.selenium:selenium-java:jar:4.2.1 (compile), io.github.bonigarcia:webdrivermanager:jar:5.2.0 (compile), commons-io:commons-io:jar:2.11.0 (compile), org.apache.logging.log4j:log4j-core:jar:2.17.2 (compile), org.apache.logging.log4j:log4j-api:jar:2.17.2 (compile), org.testng:testng:jar:7.4.0 (test), io.cucumber:cucumber-testng:jar:7.3.4 (compile), info.cukes:cucumber-junit:jar:1.2.5 (test)]
+	at org.eclipse.aether.internal.impl.collect.DefaultDependencyCollector.collectDependencies(DefaultDependencyCollector.java:292)
+	at org.eclipse.aether.internal.impl.DefaultRepositorySystem.collectDependencies(DefaultRepositorySystem.java:284)
+	at org.eclipse.m2e.core.embedder.MavenModelManager.readDependencyTree(MavenModelManager.java:241)
+	at org.eclipse.m2e.core.embedder.MavenModelManager.lambda$0(MavenModelManager.java:200)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:117)
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectManager.lambda$0(MavenProjectManager.java:136)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:156)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:103)
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectManager.execute(MavenProjectManager.java:136)
+	at org.eclipse.m2e.core.embedder.MavenModelManager.readDependencyTree(MavenModelManager.java:202)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor.readDependencyTree(MavenPomEditor.java:614)
+	at org.eclipse.m2e.editor.pom.DependencyTreePage$1.run(DependencyTreePage.java:225)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.eclipse.aether.collection.UnsolvableVersionConflictException: Could not resolve version conflict among [io.cucumber:cucumber-java:jar:7.14.0 -> io.cucumber:cucumber-core:jar:7.14.0 -> io.cucumber:messages:jar:22.0.0, io.cucumber:cucumber-java:jar:7.14.0 -> io.cucumber:cucumber-core:jar:7.14.0 -> io.cucumber:html-formatter:jar:20.4.0 -> io.cucumber:messages:jar:[18.0.0,23.0.0), io.cucumber:cucumber-java:jar:7.14.0 -> io.cucumber:cucumber-core:jar:7.14.0 -> io.cucumber:junit-xml-formatter:jar:0.2.0 -> io.cucumber:messages:jar:[21.0.1,23.0.0), io.cucumber:gherkin:jar:23.0.1 -> io.cucumber:messages:jar:[18.0.0,19.0.0)]
+	at org.eclipse.aether.util.graph.transformer.NearestVersionSelector.newFailure(NearestVersionSelector.java:159)
+	at org.eclipse.aether.util.graph.transformer.NearestVersionSelector.backtrack(NearestVersionSelector.java:120)
+	at org.eclipse.aether.util.graph.transformer.NearestVersionSelector.selectVersion(NearestVersionSelector.java:93)
+	at org.eclipse.aether.util.graph.transformer.ConflictResolver.transformGraph(ConflictResolver.java:180)
+	at org.eclipse.aether.internal.impl.collect.DefaultDependencyCollector.collectDependencies(DefaultDependencyCollector.java:273)
+	... 14 more
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2024-03-15 19:22:42.000
+!MESSAGE Project read error
+!STACK 0
+org.eclipse.aether.collection.DependencyCollectionException: Failed to collect dependencies for [junit:junit:jar:4.11 (test), com.sun:tools:jar:1.5.0 (system), io.cucumber:cucumber-html:jar:0.2.7 (compile), net.sourceforge.cobertura:cobertura:jar:2.1.1 (test), io.cucumber:cucumber-java:jar:7.14.0 (compile), io.cucumber:cucumber-jvm-deps:jar:1.0.6 (provided), net.masterthought:cucumber-reporting:jar:5.7.1 (compile), org.hamcrest:hamcrest-core:jar:2.2 (test), io.cucumber:gherkin:jar:23.0.1 (compile), org.seleniumhq.selenium:selenium-java:jar:4.2.1 (compile), io.github.bonigarcia:webdrivermanager:jar:5.2.0 (compile), commons-io:commons-io:jar:2.11.0 (compile), org.apache.logging.log4j:log4j-core:jar:2.17.2 (compile), org.apache.logging.log4j:log4j-api:jar:2.17.2 (compile), org.testng:testng:jar:7.4.0 (test), io.cucumber:cucumber-testng:jar:7.3.4 (compile), info.cukes:cucumber-junit:jar:1.2.5 (test)]
+	at org.eclipse.aether.internal.impl.collect.DefaultDependencyCollector.collectDependencies(DefaultDependencyCollector.java:292)
+	at org.eclipse.aether.internal.impl.DefaultRepositorySystem.collectDependencies(DefaultRepositorySystem.java:284)
+	at org.eclipse.m2e.core.embedder.MavenModelManager.readDependencyTree(MavenModelManager.java:241)
+	at org.eclipse.m2e.core.embedder.MavenModelManager.lambda$0(MavenModelManager.java:200)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:117)
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectManager.lambda$0(MavenProjectManager.java:136)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:156)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:103)
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectManager.execute(MavenProjectManager.java:136)
+	at org.eclipse.m2e.core.embedder.MavenModelManager.readDependencyTree(MavenModelManager.java:202)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor.readDependencyTree(MavenPomEditor.java:614)
+	at org.eclipse.m2e.editor.pom.DependencyTreePage$1.run(DependencyTreePage.java:225)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.eclipse.aether.collection.UnsolvableVersionConflictException: Could not resolve version conflict among [io.cucumber:cucumber-java:jar:7.14.0 -> io.cucumber:cucumber-core:jar:7.14.0 -> io.cucumber:messages:jar:22.0.0, io.cucumber:cucumber-java:jar:7.14.0 -> io.cucumber:cucumber-core:jar:7.14.0 -> io.cucumber:html-formatter:jar:20.4.0 -> io.cucumber:messages:jar:[18.0.0,23.0.0), io.cucumber:cucumber-java:jar:7.14.0 -> io.cucumber:cucumber-core:jar:7.14.0 -> io.cucumber:junit-xml-formatter:jar:0.2.0 -> io.cucumber:messages:jar:[21.0.1,23.0.0), io.cucumber:gherkin:jar:23.0.1 -> io.cucumber:messages:jar:[18.0.0,19.0.0)]
+	at org.eclipse.aether.util.graph.transformer.NearestVersionSelector.newFailure(NearestVersionSelector.java:159)
+	at org.eclipse.aether.util.graph.transformer.NearestVersionSelector.backtrack(NearestVersionSelector.java:120)
+	at org.eclipse.aether.util.graph.transformer.NearestVersionSelector.selectVersion(NearestVersionSelector.java:93)
+	at org.eclipse.aether.util.graph.transformer.ConflictResolver.transformGraph(ConflictResolver.java:180)
+	at org.eclipse.aether.internal.impl.collect.DefaultDependencyCollector.collectDependencies(DefaultDependencyCollector.java:273)
+	... 14 more
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2024-03-15 19:22:42.001
+!MESSAGE Project read error
+!STACK 1
+org.eclipse.core.runtime.CoreException: Project read error
+	at org.eclipse.m2e.core.embedder.MavenModelManager.readDependencyTree(MavenModelManager.java:245)
+	at org.eclipse.m2e.core.embedder.MavenModelManager.lambda$0(MavenModelManager.java:200)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:117)
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectManager.lambda$0(MavenProjectManager.java:136)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:156)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:103)
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectManager.execute(MavenProjectManager.java:136)
+	at org.eclipse.m2e.core.embedder.MavenModelManager.readDependencyTree(MavenModelManager.java:202)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor.readDependencyTree(MavenPomEditor.java:614)
+	at org.eclipse.m2e.editor.pom.DependencyTreePage$1.run(DependencyTreePage.java:225)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.eclipse.aether.collection.DependencyCollectionException: Failed to collect dependencies for [junit:junit:jar:4.11 (test), com.sun:tools:jar:1.5.0 (system), io.cucumber:cucumber-html:jar:0.2.7 (compile), net.sourceforge.cobertura:cobertura:jar:2.1.1 (test), io.cucumber:cucumber-java:jar:7.14.0 (compile), io.cucumber:cucumber-jvm-deps:jar:1.0.6 (provided), net.masterthought:cucumber-reporting:jar:5.7.1 (compile), org.hamcrest:hamcrest-core:jar:2.2 (test), io.cucumber:gherkin:jar:23.0.1 (compile), org.seleniumhq.selenium:selenium-java:jar:4.2.1 (compile), io.github.bonigarcia:webdrivermanager:jar:5.2.0 (compile), commons-io:commons-io:jar:2.11.0 (compile), org.apache.logging.log4j:log4j-core:jar:2.17.2 (compile), org.apache.logging.log4j:log4j-api:jar:2.17.2 (compile), org.testng:testng:jar:7.4.0 (test), io.cucumber:cucumber-testng:jar:7.3.4 (compile), info.cukes:cucumber-junit:jar:1.2.5 (test)]
+	at org.eclipse.aether.internal.impl.collect.DefaultDependencyCollector.collectDependencies(DefaultDependencyCollector.java:292)
+	at org.eclipse.aether.internal.impl.DefaultRepositorySystem.collectDependencies(DefaultRepositorySystem.java:284)
+	at org.eclipse.m2e.core.embedder.MavenModelManager.readDependencyTree(MavenModelManager.java:241)
+	... 12 more
+Caused by: org.eclipse.aether.collection.UnsolvableVersionConflictException: Could not resolve version conflict among [io.cucumber:cucumber-java:jar:7.14.0 -> io.cucumber:cucumber-core:jar:7.14.0 -> io.cucumber:messages:jar:22.0.0, io.cucumber:cucumber-java:jar:7.14.0 -> io.cucumber:cucumber-core:jar:7.14.0 -> io.cucumber:html-formatter:jar:20.4.0 -> io.cucumber:messages:jar:[18.0.0,23.0.0), io.cucumber:cucumber-java:jar:7.14.0 -> io.cucumber:cucumber-core:jar:7.14.0 -> io.cucumber:junit-xml-formatter:jar:0.2.0 -> io.cucumber:messages:jar:[21.0.1,23.0.0), io.cucumber:gherkin:jar:23.0.1 -> io.cucumber:messages:jar:[18.0.0,19.0.0)]
+	at org.eclipse.aether.util.graph.transformer.NearestVersionSelector.newFailure(NearestVersionSelector.java:159)
+	at org.eclipse.aether.util.graph.transformer.NearestVersionSelector.backtrack(NearestVersionSelector.java:120)
+	at org.eclipse.aether.util.graph.transformer.NearestVersionSelector.selectVersion(NearestVersionSelector.java:93)
+	at org.eclipse.aether.util.graph.transformer.ConflictResolver.transformGraph(ConflictResolver.java:180)
+	at org.eclipse.aether.internal.impl.collect.DefaultDependencyCollector.collectDependencies(DefaultDependencyCollector.java:273)
+	... 14 more
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2024-03-15 19:22:42.001
+!MESSAGE Project read error
+!STACK 0
+org.eclipse.aether.collection.DependencyCollectionException: Failed to collect dependencies for [junit:junit:jar:4.11 (test), com.sun:tools:jar:1.5.0 (system), io.cucumber:cucumber-html:jar:0.2.7 (compile), net.sourceforge.cobertura:cobertura:jar:2.1.1 (test), io.cucumber:cucumber-java:jar:7.14.0 (compile), io.cucumber:cucumber-jvm-deps:jar:1.0.6 (provided), net.masterthought:cucumber-reporting:jar:5.7.1 (compile), org.hamcrest:hamcrest-core:jar:2.2 (test), io.cucumber:gherkin:jar:23.0.1 (compile), org.seleniumhq.selenium:selenium-java:jar:4.2.1 (compile), io.github.bonigarcia:webdrivermanager:jar:5.2.0 (compile), commons-io:commons-io:jar:2.11.0 (compile), org.apache.logging.log4j:log4j-core:jar:2.17.2 (compile), org.apache.logging.log4j:log4j-api:jar:2.17.2 (compile), org.testng:testng:jar:7.4.0 (test), io.cucumber:cucumber-testng:jar:7.3.4 (compile), info.cukes:cucumber-junit:jar:1.2.5 (test)]
+	at org.eclipse.aether.internal.impl.collect.DefaultDependencyCollector.collectDependencies(DefaultDependencyCollector.java:292)
+	at org.eclipse.aether.internal.impl.DefaultRepositorySystem.collectDependencies(DefaultRepositorySystem.java:284)
+	at org.eclipse.m2e.core.embedder.MavenModelManager.readDependencyTree(MavenModelManager.java:241)
+	at org.eclipse.m2e.core.embedder.MavenModelManager.lambda$0(MavenModelManager.java:200)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:117)
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectManager.lambda$0(MavenProjectManager.java:136)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:156)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:103)
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectManager.execute(MavenProjectManager.java:136)
+	at org.eclipse.m2e.core.embedder.MavenModelManager.readDependencyTree(MavenModelManager.java:202)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor.readDependencyTree(MavenPomEditor.java:614)
+	at org.eclipse.m2e.editor.pom.DependencyTreePage$1.run(DependencyTreePage.java:225)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.eclipse.aether.collection.UnsolvableVersionConflictException: Could not resolve version conflict among [io.cucumber:cucumber-java:jar:7.14.0 -> io.cucumber:cucumber-core:jar:7.14.0 -> io.cucumber:messages:jar:22.0.0, io.cucumber:cucumber-java:jar:7.14.0 -> io.cucumber:cucumber-core:jar:7.14.0 -> io.cucumber:html-formatter:jar:20.4.0 -> io.cucumber:messages:jar:[18.0.0,23.0.0), io.cucumber:cucumber-java:jar:7.14.0 -> io.cucumber:cucumber-core:jar:7.14.0 -> io.cucumber:junit-xml-formatter:jar:0.2.0 -> io.cucumber:messages:jar:[21.0.1,23.0.0), io.cucumber:gherkin:jar:23.0.1 -> io.cucumber:messages:jar:[18.0.0,19.0.0)]
+	at org.eclipse.aether.util.graph.transformer.NearestVersionSelector.newFailure(NearestVersionSelector.java:159)
+	at org.eclipse.aether.util.graph.transformer.NearestVersionSelector.backtrack(NearestVersionSelector.java:120)
+	at org.eclipse.aether.util.graph.transformer.NearestVersionSelector.selectVersion(NearestVersionSelector.java:93)
+	at org.eclipse.aether.util.graph.transformer.ConflictResolver.transformGraph(ConflictResolver.java:180)
+	at org.eclipse.aether.internal.impl.collect.DefaultDependencyCollector.collectDependencies(DefaultDependencyCollector.java:273)
+	... 14 more
+
+!ENTRY org.eclipse.jface 2 0 2024-03-16 11:11:26.430
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2024-03-16 11:11:26.430
+!MESSAGE A conflict occurred for CTRL+SHIFT+F:
+Binding(CTRL+SHIFT+F,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.format,Format,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@12390d5a,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+Binding(CTRL+SHIFT+F,
+	ParameterizedCommand(Command(cucumber.eclipse.editor.formmater.pretty_formatter,Pretty format feature file,
+		Format,
+		Category(cucumber.eclipse.category,Cucumber,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@3a0b36d7,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	cucumber.eclipse.editor.featureEditorScope,,,system)
+!SESSION 2024-03-30 17:38:01.362 -----------------------------------------------
+eclipse.buildId=4.24.0.I20220607-0700
+java.version=17.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.jface 2 0 2024-03-30 17:38:55.945
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2024-03-30 17:38:55.945
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@5c7e55a4,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@7ae6927,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2024-03-30 17:38:55.945
+!MESSAGE A conflict occurred for ALT+SHIFT+R:
+Binding(ALT+SHIFT+R,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.rename.element,Rename - Refactoring ,
+		Rename the selected element,
+		Category(org.eclipse.jdt.ui.category.refactoring,Refactor - Java,Java Refactoring Actions,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@7d0df326,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+SHIFT+R,
+	ParameterizedCommand(Command(org.eclipse.ui.edit.rename,Rename,
+		Rename the selected item,
+		Category(org.eclipse.ui.category.file,File,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@43f7f48d,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-03-30 17:39:08.169
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\hp'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
